@@ -9,6 +9,7 @@ public class DockerImageApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DockerImageApplication.class, args);
 		System.out.println("for feature branch check - in");
+		System.out.prinntln("changing file in main");
 	}
 
 }
